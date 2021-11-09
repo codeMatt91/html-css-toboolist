@@ -12,6 +12,7 @@
 
 header > h1 {
    font-family: Arial, Helvetica, sans-serif;
+   font-weight: 900;
    display: inline;
    vertical-align: middle;
 }
@@ -22,7 +23,6 @@ header > h1 {
 .container {
    width: 600px;
    height: 900px;
-   /* background-color: orange; */
    margin: 0 auto;
    padding: 20px 0px;
 }
