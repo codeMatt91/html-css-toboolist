@@ -15,3 +15,45 @@ header > h1 {
    display: inline;
    vertical-align: middle;
 }
+
+
+/* Proprietà Main  */
+
+.container {
+   width: 600px;
+   height: 900px;
+   /* background-color: orange; */
+   margin: 0 auto;
+   padding: 20px 0px;
+}
+
+/* Propietà Section  */
+
+#button{
+   margin-top: 30px;
+}
+
+button {
+   padding: 5px 5px;
+   border: 1px solid rgba(49, 48, 48, 0.4);
+   border-radius: 5px;
+}
+
+#first-button {
+   color: white;
+   background-color: rgb(90, 156, 236);
+}
+
+#To-do-list {
+   margin: 50px 0;
+}
+
+.title-list {
+   margin-bottom: 20px;
+   font-family: sans-serif;
+   font-size: 20px;
+}
+
+.marker {
+   background-color: lightskyblue;
+}
