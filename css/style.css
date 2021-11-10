@@ -99,3 +99,23 @@ button {
 .orange{
    background-color: orange;
 }
+
+.check{
+   vertical-align: middle;
+   text-align: center;
+   height: 10px;
+   width: 10px;
+   padding: 0 4px;
+   border: 1px solid transparent;
+   border-radius: 50%;
+}
+
+.check.done{
+   color: green;
+   border-color: green;
+}
+.check.undone{
+   padding: 0 6px;
+   color: red;
+   border-color: red;
+}
